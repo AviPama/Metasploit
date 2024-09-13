@@ -1,1 +1,1 @@
-In this assignment, two metaspolit attacks were designed and executed. 
+In this assignment, two metasploit attacks were designed and executed. 
